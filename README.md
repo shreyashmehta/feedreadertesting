@@ -13,3 +13,7 @@
 12. Write a test suite named "New Feed Selection".
 13. Write a test that ensures when a new feed is loaded by the loadFeed function that the content actually changes.
 14. No test should be dependent on the results of another.
+
+#How to run
+1. Open the index.html file in your browser
+2. You should see 8 specs, 0 failures
